@@ -1,6 +1,6 @@
 # TheGrid #
 
-TheGrid is a lightweight barebones 12-column responsive grid. I required a grid without the overhead of a complete CSS framework. I have added a few additional components but they all focus on layout.
+TheGrid is a lightweight barebones 12-column responsive grid. I required a grid without the overhead of a complete CSS framework. I have added a few additional components but they all focus on layout..
 
 ## Usage ##
 ### Layout ###
